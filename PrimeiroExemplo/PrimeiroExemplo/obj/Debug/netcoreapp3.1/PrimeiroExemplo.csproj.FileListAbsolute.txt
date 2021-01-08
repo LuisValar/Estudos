@@ -1,0 +1,13 @@
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.exe
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.deps.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.runtimeconfig.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.runtimeconfig.dev.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.dll
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.AssemblyInfoInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.AssemblyInfo.cs
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.dll
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.genruntimeconfig.cache
