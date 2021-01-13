@@ -1,0 +1,13 @@
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.exe
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.deps.json
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.json
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.dev.json
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.dll
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfo.cs
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.dll
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.genruntimeconfig.cache

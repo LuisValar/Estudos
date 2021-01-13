@@ -28,7 +28,7 @@ namespace PrimeiroExemplo
 
             y = 2  * g;
 
-            Console.WriteLine("Valor de  X = " + x + "Valor de Y = " + y);
+            Console.WriteLine("Valor de  g = " + g + "Valor de Y = " + y);
 
             /* -------- Casting -------
                 É a conversão explicita de um tipo de dado pora outro
@@ -45,7 +45,7 @@ namespace PrimeiroExemplo
 
             resultado = a / b;
 
-            Console.WriteLine(resultado);
+            Console.WriteLine("Sem Casting" + resultado);
 
             // Com casting
 
