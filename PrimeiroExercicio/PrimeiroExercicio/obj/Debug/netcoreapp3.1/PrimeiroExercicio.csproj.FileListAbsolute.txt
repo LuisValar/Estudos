@@ -1,0 +1,13 @@
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.exe
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.deps.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.runtimeconfig.dev.json
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.AssemblyInfo.cs
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.dll
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.pdb
+C:\Users\luisv\Documents\GitHub\Estudos\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\netcoreapp3.1\PrimeiroExercicio.genruntimeconfig.cache
